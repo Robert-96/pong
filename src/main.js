@@ -2,7 +2,7 @@
 
 import { Canvas } from './pong.js';
 
-import './css/normalize.css';
+import 'normalize.css';
 import './css/style.css';
 
 const canvas = new Canvas(document.getElementById('pong'));
