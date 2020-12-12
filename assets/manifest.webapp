@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "name": "Pong - a table tennis-themed arcade video game",
+  "description": "Pong is a table tennis-themed arcade video game featuring simple two-dimensional graphics.",
+  "icons": {
+    "60": "/pong/assets/firefox_app_60x60.png",
+    "128": "/pong/assets/firefox_app_128x128.png",
+    "512": "/pong/assets/firefox_app_512x512.png"
+  },
+  "developer": {
+    "name": null,
+    "url": null
+  }
+}
